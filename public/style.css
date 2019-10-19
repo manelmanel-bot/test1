@@ -1,0 +1,58 @@
+#form{
+    display: flex;
+}
+
+
+#espace1{
+    background-color: chocolate;
+    width: 300px;
+    height: 600px;
+    display:inline-block;
+}
+#espace2{
+    background-color: blue;
+    width: 1000px;
+    height: 600px;
+    display:inline-block;
+}
+#bouton {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 103px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#h1,h2
+{
+    padding-left: 400px;
+}
+
+#list{
+list-style-type: circle;
+    padding-left: 100px;
+}
+input.element{
+    margin: 4px 2px;
+    width:80%;
+    border:2px solid #aaa;
+    border-radius:4px;
+    outline:none;
+    padding:8px;
+    box-sizing:border-box;
+    transition:.3s;
+
+
+}
+
+
+#img{
+    width: 130px;
+    height: 130px;
+    margin: 10px 70px;
+
+}
